@@ -18,4 +18,4 @@
 </p>
                                                                
 * 📂 **[GS9 Desktop Hub](https://github.com/gs9-ZIFEN/FOLDER-GS9)** — A minimal desktop application for organizing shortcuts with a glassmorphism UI.
-* 📁 **[GLYPH](https://github.com/gs9-ZIFEN/GLYPH-v1.0)** * —An ultra-minimalist offline desktop image converter with custom background animations.*
+* 📁 **[GLYPH](https://github.com/gs9-ZIFEN/GLYPH-v1.0)**  —An ultra-minimalist offline desktop image converter with custom background animations.*
